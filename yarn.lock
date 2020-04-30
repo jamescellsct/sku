@@ -3783,10 +3783,10 @@ braces@^3.0.1:
   dependencies:
     fill-range "^7.0.1"
 
-braid-design-system@^24.3.1:
-  version "24.3.1"
-  resolved "https://registry.yarnpkg.com/braid-design-system/-/braid-design-system-24.3.1.tgz#600f901071cbf25702c33dcb987ef78fe26f81d7"
-  integrity sha512-QU/m9GzQR/gAiel2TXi5G2lxOujYnBzyL3/3jurnIn4BKYw1x9RNPK/vzk+Uv+U7Nhqf2XXHl6JT/EYfYFVxgw==
+braid-design-system@^25.0.0:
+  version "25.5.1"
+  resolved "https://registry.yarnpkg.com/braid-design-system/-/braid-design-system-25.5.1.tgz#89451883972e13736101b60479ba2f83c49e8023"
+  integrity sha512-MBycxVFGZGVXCP44cDiji3/IT9WSK2tHuYZo+88hcJB6xn/cebD8BK1xZ26y4QUnsFmAX5RKbKdVDPw4Ed2lHQ==
   dependencies:
     "@types/autosuggest-highlight" "^3.1.0"
     "@types/classnames" "^2.2.8"
@@ -13278,10 +13278,10 @@ seek-asia-style-guide@^16.0.1:
     react-text-mask "^5.4.3"
     webfontloader "^1.6.28"
 
-seek-style-guide@^40.2.8:
-  version "40.4.1"
-  resolved "https://registry.yarnpkg.com/seek-style-guide/-/seek-style-guide-40.4.1.tgz#36b77eb93f1ffbcfc91f4a8d631567dca4b7fdf9"
-  integrity sha512-ucsYPTPr209W5N5ChfFJXTMidhkERAk6d7qA4EpwbSxeF9g/DVH6a2a03wIL8lTNG67t9jbyWILiY2DjaCxUfw==
+seek-style-guide@^41.0.0:
+  version "41.0.0"
+  resolved "https://registry.yarnpkg.com/seek-style-guide/-/seek-style-guide-41.0.0.tgz#ba5424abfaf9621f8cac87e84b70e72808ea2e0b"
+  integrity sha512-CZwM78YDqsZUMsx3nRVkLVAJUuwQ342PQNJjFKKgE+38wit7B1bX+gP0LPSN3PerjdeXoFwIDzbUOiaXnKBi9g==
   dependencies:
     basekick "^3.0.0"
     classnames "^2.2.5"
